@@ -1,0 +1,23 @@
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\bin\Debug\net6.0-windows\Ежедневник WPF.exe
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\bin\Debug\net6.0-windows\Ежедневник WPF.deps.json
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\bin\Debug\net6.0-windows\Ежедневник WPF.runtimeconfig.json
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\bin\Debug\net6.0-windows\Ежедневник WPF.dll
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\bin\Debug\net6.0-windows\Ежедневник WPF.pdb
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF_MarkupCompile.cache
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF_MarkupCompile.lref
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.g.resources
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.dll
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\refint\Ежедневник WPF.dll
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.pdb
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.genruntimeconfig.cache
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\ref\Ежедневник WPF.dll
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nikol\source\repos\Ежедневник WPF\Ежедневник WPF\obj\Debug\net6.0-windows\Ежедневник WPF.csproj.CopyComplete
